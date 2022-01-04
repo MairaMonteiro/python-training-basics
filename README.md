@@ -1,2 +1,6 @@
 # python-training-basics
-Repositório para treino de Python
+
+#Repositório para armazenas os meus treinos com Python
+**
+
+
