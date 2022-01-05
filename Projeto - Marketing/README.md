@@ -3,8 +3,10 @@
 Dado um determinado dataset, o desafio era dentro de 24 horas realizar toda a parte de preparação do ambiente de trabalho cloud, tratamento de dados e consultas em SQL para auxiliar na extração de insights.
  
 <br><br>
-## Instruções 
+
+### Instruções
 <br>
+
 ### Nivel Infra
 O Dataset deve ser salvo em ambiente cloud(Drive ou Cloud Storage)
 Os DataFrames devem ser obrigatoriamente salvos em uma bucket do CloudStorage<br>
@@ -23,9 +25,12 @@ Utilizar pelo menos duas Window Functions<br>
 ### Nivel SparkSQL
 Utilizar no minimo 10 consultas diferentes utilizando o SparkSQL, comentando o porquê de ter escolhido essas funções e explicando o que cada consulta faz.
 
-<br><br>
+<br>
+<br>
+
 ### Ferramentas:
 Colab ou Ides | Google Cloud
 
-<br><br>
+<br>
+<br>
 Projeto de Preparação e revisão dos conteúdos, realizado individualmente durante o bootcamp da SoulCode.
