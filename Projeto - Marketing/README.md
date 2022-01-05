@@ -4,8 +4,7 @@ Dado um determinado dataset, o desafio era dentro de 24 horas realizar toda a pa
  
 <br><br>
 
-### Instruções
-<br>
+## Instruções
 
 ### Nivel Infra
 O Dataset deve ser salvo em ambiente cloud(Drive ou Cloud Storage)
